@@ -1,0 +1,8 @@
+ Initialize a Local Repository
+# Create a project folder 
+mkdir SEN4301
+cd sen4301
+git init
+
+echo "# BAUK-LICENSE > ourlicense.md
+git status
